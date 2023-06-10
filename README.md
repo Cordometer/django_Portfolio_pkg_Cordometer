@@ -1,0 +1,3 @@
+The coding itself are the tests in the test folder. I spent 3 days straight trying to get it working but working on this gotten me to the point that I needed to be done or else I am gonna freak out, been seeing the change in my personality the longer I went.
+
+The tests may be a but unamusing sense it's really just function tests but I really did try to come up with something. I am proud of what is there atleast. The testing does work and it's all in pytest so there is something atleast.  Can say though that WebDev in general though may not be the thing for me from how complex and completely nuts it gotten for me but I gave it what I can offer to get through it. 
